@@ -1,0 +1,167 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "matchDate": "2009-02-27T21:00:00Z",
+            "homeTeam": {
+                "id": 4,
+                "teamName": "VirtualTeam 4",
+                "shortName": "V. Team 4"
+            },
+            "goalsHomeTeam": 3,
+            "awayTeam": {
+                "id": 28,
+                "teamName": "VirtualTeam 28",
+                "shortName": "V. Team 28"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 1,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-02-28T16:00:00Z",
+            "homeTeam": {
+                "id": 11,
+                "teamName": "VirtualTeam 11",
+                "shortName": "V. Team 11"
+            },
+            "goalsHomeTeam": 2,
+            "awayTeam": {
+                "id": 22,
+                "teamName": "VirtualTeam 22",
+                "shortName": "V. Team 22"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 2,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-02-28T17:00:00Z",
+            "homeTeam": {
+                "id": 21,
+                "teamName": "VirtualTeam 21",
+                "shortName": "V. Team 21"
+            },
+            "goalsHomeTeam": 4,
+            "awayTeam": {
+                "id": 19,
+                "teamName": "VirtualTeam 19",
+                "shortName": "V. Team 19"
+            },
+            "goalsAwayTeam": 2,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 3,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-02-28T20:30:00Z",
+            "homeTeam": {
+                "id": 3,
+                "teamName": "VirtualTeam 3",
+                "shortName": "V. Team 3"
+            },
+            "goalsHomeTeam": 0,
+            "awayTeam": {
+                "id": 2,
+                "teamName": "VirtualTeam 2",
+                "shortName": "V. Team 2"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 4,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-03-01T16:00:00Z",
+            "homeTeam": {
+                "id": 5,
+                "teamName": "VirtualTeam 5",
+                "shortName": "V. Team 5"
+            },
+            "goalsHomeTeam": 0,
+            "awayTeam": {
+                "id": 26,
+                "teamName": "VirtualTeam 26",
+                "shortName": "V. Team 26"
+            },
+            "goalsAwayTeam": 2,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 5,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-03-01T16:00:00Z",
+            "homeTeam": {
+                "id": 29,
+                "teamName": "VirtualTeam 29",
+                "shortName": "V. Team 29"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 23,
+                "teamName": "VirtualTeam 23",
+                "shortName": "V. Team 23"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 6,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-03-01T20:00:00Z",
+            "homeTeam": {
+                "id": 7,
+                "teamName": "VirtualTeam 7",
+                "shortName": "V. Team 7"
+            },
+            "goalsHomeTeam": 4,
+            "awayTeam": {
+                "id": 13,
+                "teamName": "VirtualTeam 13",
+                "shortName": "V. Team 13"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 7,
+            "links": {}
+        },
+        {
+            "matchDate": "2009-03-02T19:45:00Z",
+            "homeTeam": {
+                "id": 10,
+                "teamName": "VirtualTeam 10",
+                "shortName": "V. Team 10"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 8,
+                "teamName": "VirtualTeam 8",
+                "shortName": "V. Team 8"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 6,
+            "weekNr": 20,
+            "gameNrWeek": 8,
+            "links": {}
+        }
+    ]
+}

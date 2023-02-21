@@ -1,0 +1,331 @@
+{
+    "count": 36,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "url": "",
+            "club": 1,
+            "clubName": "VirtualTeam 1",
+            "teamName": "VirtualTeam 1",
+            "shortName": "V. Team 1",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 2,
+            "clubName": "VirtualTeam 2",
+            "teamName": "VirtualTeam 2",
+            "shortName": "V. Team 2",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 3,
+            "clubName": "VirtualTeam 3",
+            "teamName": "VirtualTeam 3",
+            "shortName": "V. Team 3",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 4,
+            "clubName": "VirtualTeam 4",
+            "teamName": "VirtualTeam 4",
+            "shortName": "V. Team 4",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 5,
+            "clubName": "VirtualTeam 5",
+            "teamName": "VirtualTeam 5",
+            "shortName": "V. Team 5",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 6,
+            "clubName": "VirtualTeam 6",
+            "teamName": "VirtualTeam 6",
+            "shortName": "V. Team 6",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 7,
+            "clubName": "VirtualTeam 7",
+            "teamName": "VirtualTeam 7",
+            "shortName": "V. Team 7",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 8,
+            "clubName": "VirtualTeam 8",
+            "teamName": "VirtualTeam 8",
+            "shortName": "V. Team 8",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 9,
+            "clubName": "VirtualTeam 9",
+            "teamName": "VirtualTeam 9",
+            "shortName": "V. Team 9",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 10,
+            "clubName": "VirtualTeam 10",
+            "teamName": "VirtualTeam 10",
+            "shortName": "V. Team 10",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 11,
+            "clubName": "VirtualTeam 11",
+            "teamName": "VirtualTeam 11",
+            "shortName": "V. Team 11",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 12,
+            "clubName": "VirtualTeam 12",
+            "teamName": "VirtualTeam 12",
+            "shortName": "V. Team 12",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 13,
+            "clubName": "VirtualTeam 13",
+            "teamName": "VirtualTeam 13",
+            "shortName": "V. Team 13",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 14,
+            "clubName": "VirtualTeam 14",
+            "teamName": "VirtualTeam 14",
+            "shortName": "V. Team 14",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 15,
+            "clubName": "VirtualTeam 15",
+            "teamName": "VirtualTeam 15",
+            "shortName": "V. Team 15",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 16,
+            "clubName": "VirtualTeam 16",
+            "teamName": "VirtualTeam 16",
+            "shortName": "V. Team 16",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 17,
+            "clubName": "VirtualTeam 17",
+            "teamName": "VirtualTeam 17",
+            "shortName": "V. Team 17",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 18,
+            "clubName": "VirtualTeam 18",
+            "teamName": "VirtualTeam 18",
+            "shortName": "V. Team 18",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 19,
+            "clubName": "VirtualTeam 19",
+            "teamName": "VirtualTeam 19",
+            "shortName": "V. Team 19",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 20,
+            "clubName": "VirtualTeam 20",
+            "teamName": "VirtualTeam 20",
+            "shortName": "V. Team 20",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 21,
+            "clubName": "VirtualTeam 21",
+            "teamName": "VirtualTeam 21",
+            "shortName": "V. Team 21",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 22,
+            "clubName": "VirtualTeam 22",
+            "teamName": "VirtualTeam 22",
+            "shortName": "V. Team 22",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 23,
+            "clubName": "VirtualTeam 23",
+            "teamName": "VirtualTeam 23",
+            "shortName": "V. Team 23",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 24,
+            "clubName": "VirtualTeam 24",
+            "teamName": "VirtualTeam 24",
+            "shortName": "V. Team 24",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 25,
+            "clubName": "VirtualTeam 25",
+            "teamName": "VirtualTeam 25",
+            "shortName": "V. Team 25",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 26,
+            "clubName": "VirtualTeam 26",
+            "teamName": "VirtualTeam 26",
+            "shortName": "V. Team 26",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 27,
+            "clubName": "VirtualTeam 27",
+            "teamName": "VirtualTeam 27",
+            "shortName": "V. Team 27",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 28,
+            "clubName": "VirtualTeam 28",
+            "teamName": "VirtualTeam 28",
+            "shortName": "V. Team 28",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 29,
+            "clubName": "VirtualTeam 29",
+            "teamName": "VirtualTeam 29",
+            "shortName": "V. Team 29",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 30,
+            "clubName": "VirtualTeam 30",
+            "teamName": "VirtualTeam 30",
+            "shortName": "V. Team 30",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 31,
+            "clubName": "VirtualTeam 31",
+            "teamName": "VirtualTeam 31",
+            "shortName": "V. Team 31",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 32,
+            "clubName": "VirtualTeam 32",
+            "teamName": "VirtualTeam 32",
+            "shortName": "V. Team 32",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 33,
+            "clubName": "VirtualTeam 33",
+            "teamName": "VirtualTeam 33",
+            "shortName": "V. Team 33",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 34,
+            "clubName": "VirtualTeam 34",
+            "teamName": "VirtualTeam 34",
+            "shortName": "V. Team 34",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 35,
+            "clubName": "VirtualTeam 35",
+            "teamName": "VirtualTeam 35",
+            "shortName": "V. Team 35",
+            "dateFrom": null,
+            "dateTo": null
+        },
+        {
+            "url": "",
+            "club": 36,
+            "clubName": "VirtualTeam 36",
+            "teamName": "VirtualTeam 36",
+            "shortName": "V. Team 36",
+            "dateFrom": null,
+            "dateTo": null
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "matchDate": "2013-03-29T20:00:00Z",
+            "homeTeam": {
+                "id": 11,
+                "teamName": "VirtualTeam 11",
+                "shortName": "V. Team 11"
+            },
+            "goalsHomeTeam": 4,
+            "awayTeam": {
+                "id": 15,
+                "teamName": "VirtualTeam 15",
+                "shortName": "V. Team 15"
+            },
+            "goalsAwayTeam": 3,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 1,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-03-30T16:00:00Z",
+            "homeTeam": {
+                "id": 13,
+                "teamName": "VirtualTeam 13",
+                "shortName": "V. Team 13"
+            },
+            "goalsHomeTeam": 3,
+            "awayTeam": {
+                "id": 7,
+                "teamName": "VirtualTeam 7",
+                "shortName": "V. Team 7"
+            },
+            "goalsAwayTeam": 5,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 2,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-03-30T16:00:00Z",
+            "homeTeam": {
+                "id": 20,
+                "teamName": "VirtualTeam 20",
+                "shortName": "V. Team 20"
+            },
+            "goalsHomeTeam": 2,
+            "awayTeam": {
+                "id": 25,
+                "teamName": "VirtualTeam 25",
+                "shortName": "V. Team 25"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 3,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-03-30T16:00:00Z",
+            "homeTeam": {
+                "id": 12,
+                "teamName": "VirtualTeam 12",
+                "shortName": "V. Team 12"
+            },
+            "goalsHomeTeam": 0,
+            "awayTeam": {
+                "id": 30,
+                "teamName": "VirtualTeam 30",
+                "shortName": "V. Team 30"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 4,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-03-30T18:15:00Z",
+            "homeTeam": {
+                "id": 19,
+                "teamName": "VirtualTeam 19",
+                "shortName": "V. Team 19"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 3,
+                "teamName": "VirtualTeam 3",
+                "shortName": "V. Team 3"
+            },
+            "goalsAwayTeam": 4,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 5,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-03-30T20:30:00Z",
+            "homeTeam": {
+                "id": 4,
+                "teamName": "VirtualTeam 4",
+                "shortName": "V. Team 4"
+            },
+            "goalsHomeTeam": 5,
+            "awayTeam": {
+                "id": 22,
+                "teamName": "VirtualTeam 22",
+                "shortName": "V. Team 22"
+            },
+            "goalsAwayTeam": 2,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 6,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-04-01T18:15:00+01:00",
+            "homeTeam": {
+                "id": 21,
+                "teamName": "VirtualTeam 21",
+                "shortName": "V. Team 21"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 8,
+                "teamName": "VirtualTeam 8",
+                "shortName": "V. Team 8"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 7,
+            "links": {}
+        },
+        {
+            "matchDate": "2013-04-01T20:30:00+01:00",
+            "homeTeam": {
+                "id": 10,
+                "teamName": "VirtualTeam 10",
+                "shortName": "V. Team 10"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 2,
+                "teamName": "VirtualTeam 2",
+                "shortName": "V. Team 2"
+            },
+            "goalsAwayTeam": 4,
+            "league": 2,
+            "season": 10,
+            "weekNr": 24,
+            "gameNrWeek": 8,
+            "links": {}
+        }
+    ]
+}

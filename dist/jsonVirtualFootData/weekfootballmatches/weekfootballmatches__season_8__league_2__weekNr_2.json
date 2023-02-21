@@ -1,0 +1,167 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "matchDate": "2010-08-20T20:15:00+01:00",
+            "homeTeam": {
+                "id": 19,
+                "teamName": "VirtualTeam 19",
+                "shortName": "V. Team 19"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 30,
+                "teamName": "VirtualTeam 30",
+                "shortName": "V. Team 30"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 1,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-21T19:15:00+01:00",
+            "homeTeam": {
+                "id": 13,
+                "teamName": "VirtualTeam 13",
+                "shortName": "V. Team 13"
+            },
+            "goalsHomeTeam": 0,
+            "awayTeam": {
+                "id": 10,
+                "teamName": "VirtualTeam 10",
+                "shortName": "V. Team 10"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 2,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-21T21:15:00+01:00",
+            "homeTeam": {
+                "id": 21,
+                "teamName": "VirtualTeam 21",
+                "shortName": "V. Team 21"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 4,
+                "teamName": "VirtualTeam 4",
+                "shortName": "V. Team 4"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 3,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-22T17:00:00+01:00",
+            "homeTeam": {
+                "id": 31,
+                "teamName": "VirtualTeam 31",
+                "shortName": "V. Team 31"
+            },
+            "goalsHomeTeam": 0,
+            "awayTeam": {
+                "id": 26,
+                "teamName": "VirtualTeam 26",
+                "shortName": "V. Team 26"
+            },
+            "goalsAwayTeam": 2,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 4,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-22T18:00:00+01:00",
+            "homeTeam": {
+                "id": 6,
+                "teamName": "VirtualTeam 6",
+                "shortName": "V. Team 6"
+            },
+            "goalsHomeTeam": 0,
+            "awayTeam": {
+                "id": 11,
+                "teamName": "VirtualTeam 11",
+                "shortName": "V. Team 11"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 5,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-22T18:00:00+01:00",
+            "homeTeam": {
+                "id": 2,
+                "teamName": "VirtualTeam 2",
+                "shortName": "V. Team 2"
+            },
+            "goalsHomeTeam": 2,
+            "awayTeam": {
+                "id": 7,
+                "teamName": "VirtualTeam 7",
+                "shortName": "V. Team 7"
+            },
+            "goalsAwayTeam": 1,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 6,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-22T20:15:00+01:00",
+            "homeTeam": {
+                "id": 3,
+                "teamName": "VirtualTeam 3",
+                "shortName": "V. Team 3"
+            },
+            "goalsHomeTeam": 3,
+            "awayTeam": {
+                "id": 12,
+                "teamName": "VirtualTeam 12",
+                "shortName": "V. Team 12"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 7,
+            "links": {}
+        },
+        {
+            "matchDate": "2010-08-23T20:15:00+01:00",
+            "homeTeam": {
+                "id": 8,
+                "teamName": "VirtualTeam 8",
+                "shortName": "V. Team 8"
+            },
+            "goalsHomeTeam": 1,
+            "awayTeam": {
+                "id": 22,
+                "teamName": "VirtualTeam 22",
+                "shortName": "V. Team 22"
+            },
+            "goalsAwayTeam": 0,
+            "league": 2,
+            "season": 8,
+            "weekNr": 2,
+            "gameNrWeek": 8,
+            "links": {}
+        }
+    ]
+}
