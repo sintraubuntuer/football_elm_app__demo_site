@@ -9151,19 +9151,28 @@ var author$project$FootballCalendar$theFilteredGames = function (model) {
 		model.games);
 	return theGames;
 };
-var author$project$FootballCalendar$wrapInRowDiv = function (lelems) {
+var author$project$FootballCalendar$wrapInContainerAndRowDivs = function (lelems) {
 	return A2(
 		elm$html$Html$div,
 		_List_fromArray(
 			[
-				elm$html$Html$Attributes$class('row')
+				elm$html$Html$Attributes$class('container')
 			]),
-		lelems);
+		_List_fromArray(
+			[
+				A2(
+				elm$html$Html$div,
+				_List_fromArray(
+					[
+						elm$html$Html$Attributes$class('row')
+					]),
+				lelems)
+			]));
 };
 var author$project$FootballCalendar$outputView = function (model) {
 	var _n0 = model.weekmode;
 	if (_n0.$ === 'SingleWeek') {
-		return author$project$FootballCalendar$wrapInRowDiv(
+		return author$project$FootballCalendar$wrapInContainerAndRowDivs(
 			_List_fromArray(
 				[
 					A6(
