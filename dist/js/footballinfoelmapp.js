@@ -10705,17 +10705,46 @@ var author$project$Main$viewCommonControls = function (model) {
 					]))
 			]));
 };
+var author$project$Main$wrapElemInContainerAndRowDivs = function (elem) {
+	return A2(
+		elm$html$Html$div,
+		_List_fromArray(
+			[
+				elm$html$Html$Attributes$class('container')
+			]),
+		_List_fromArray(
+			[
+				A2(
+				elm$html$Html$div,
+				_List_fromArray(
+					[
+						elm$html$Html$Attributes$class('row')
+					]),
+				_List_fromArray(
+					[elem]))
+			]));
+};
 var elm$core$String$left = F2(
 	function (n, string) {
 		return (n < 1) ? '' : A3(elm$core$String$slice, 0, n, string);
 	});
 var author$project$ViewControls$outputFetchingDataView = function (model) {
 	var strText = A2(elm$core$String$left, model.nrInfoChars, 'Fetching Data .....! ');
+	var theSpan = A2(
+		elm$html$Html$span,
+		_List_fromArray(
+			[
+				elm$html$Html$Attributes$class('text-center')
+			]),
+		_List_fromArray(
+			[
+				elm$html$Html$text(strText)
+			]));
 	return A2(
 		elm$html$Html$div,
 		_List_fromArray(
 			[
-				elm$html$Html$Attributes$class('offset-md-4 col-md-4')
+				elm$html$Html$Attributes$class('offset-md-3 offset-lg-3 col-md-6 col-lg-6 col-sm-12')
 			]),
 		_List_fromArray(
 			[
@@ -10723,9 +10752,7 @@ var author$project$ViewControls$outputFetchingDataView = function (model) {
 				elm$html$Html$h3,
 				_List_Nil,
 				_List_fromArray(
-					[
-						elm$html$Html$text(strText)
-					]))
+					[theSpan]))
 			]));
 };
 var author$project$Main$renderTabContent = function (model) {
@@ -10746,7 +10773,8 @@ var author$project$Main$renderTabContent = function (model) {
 						return A2(author$project$FootballStandings$outputRankTableViewStyled, model, 'offset-md-2 col-md-8');
 					}
 				} else {
-					return author$project$ViewControls$outputFetchingDataView(model);
+					return author$project$Main$wrapElemInContainerAndRowDivs(
+						author$project$ViewControls$outputFetchingDataView(model));
 				}
 			}(),
 				A2(elm$html$Html$br, _List_Nil, _List_Nil),
